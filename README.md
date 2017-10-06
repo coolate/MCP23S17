@@ -1,6 +1,8 @@
 MCP23S17
 ========
 
+***THIS IS A FORK OF AN OLDER VERSION FOR compatibility.********* From 2014 
+
 Arduino Driver for Microchip MCP23S17
 
 MCP23S17 Class for Arduino
